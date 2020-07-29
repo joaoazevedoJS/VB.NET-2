@@ -23,6 +23,7 @@ Partial Class frm_principal_01
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
         Me.Lbl_Principal = New System.Windows.Forms.Label()
+        Me.Btn_Acao = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'Lbl_Principal
@@ -36,11 +37,23 @@ Partial Class frm_principal_01
         Me.Lbl_Principal.TabIndex = 0
         Me.Lbl_Principal.Text = "Texto" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10)
         '
+        'Btn_Acao
+        '
+        Me.Btn_Acao.BackColor = System.Drawing.SystemColors.InfoText
+        Me.Btn_Acao.ForeColor = System.Drawing.SystemColors.Menu
+        Me.Btn_Acao.Location = New System.Drawing.Point(21, 201)
+        Me.Btn_Acao.Name = "Btn_Acao"
+        Me.Btn_Acao.Size = New System.Drawing.Size(121, 33)
+        Me.Btn_Acao.TabIndex = 1
+        Me.Btn_Acao.Text = "Button1"
+        Me.Btn_Acao.UseVisualStyleBackColor = False
+        '
         'frm_principal_01
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(605, 295)
+        Me.Controls.Add(Me.Btn_Acao)
         Me.Controls.Add(Me.Lbl_Principal)
         Me.Name = "frm_principal_01"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
@@ -51,4 +64,5 @@ Partial Class frm_principal_01
     End Sub
 
     Friend WithEvents Lbl_Principal As Label
+    Friend WithEvents Btn_Acao As Button
 End Class

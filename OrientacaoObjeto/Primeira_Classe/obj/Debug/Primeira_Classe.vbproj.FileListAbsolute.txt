@@ -10,3 +10,15 @@ C:\Users\Moura\source\repos\OrientacaoObjeto\Primeira_Classe\obj\Debug\Primeira_
 C:\Users\Moura\source\repos\OrientacaoObjeto\Primeira_Classe\obj\Debug\Primeira_Classe.exe
 C:\Users\Moura\source\repos\OrientacaoObjeto\Primeira_Classe\obj\Debug\Primeira_Classe.xml
 C:\Users\Moura\source\repos\OrientacaoObjeto\Primeira_Classe\obj\Debug\Primeira_Classe.pdb
+C:\Users\Moura\source\repos\vb-2\OrientacaoObjeto\Primeira_Classe\bin\Debug\Primeira_Classe.exe.config
+C:\Users\Moura\source\repos\vb-2\OrientacaoObjeto\Primeira_Classe\bin\Debug\Primeira_Classe.exe
+C:\Users\Moura\source\repos\vb-2\OrientacaoObjeto\Primeira_Classe\bin\Debug\Primeira_Classe.pdb
+C:\Users\Moura\source\repos\vb-2\OrientacaoObjeto\Primeira_Classe\bin\Debug\Primeira_Classe.xml
+C:\Users\Moura\source\repos\vb-2\OrientacaoObjeto\Primeira_Classe\obj\Debug\Primeira_Classe.vbprojAssemblyReference.cache
+C:\Users\Moura\source\repos\vb-2\OrientacaoObjeto\Primeira_Classe\obj\Debug\Primeira_Classe.frm_principal_01.resources
+C:\Users\Moura\source\repos\vb-2\OrientacaoObjeto\Primeira_Classe\obj\Debug\Primeira_Classe.Resources.resources
+C:\Users\Moura\source\repos\vb-2\OrientacaoObjeto\Primeira_Classe\obj\Debug\Primeira_Classe.vbproj.GenerateResource.cache
+C:\Users\Moura\source\repos\vb-2\OrientacaoObjeto\Primeira_Classe\obj\Debug\Primeira_Classe.vbproj.CoreCompileInputs.cache
+C:\Users\Moura\source\repos\vb-2\OrientacaoObjeto\Primeira_Classe\obj\Debug\Primeira_Classe.exe
+C:\Users\Moura\source\repos\vb-2\OrientacaoObjeto\Primeira_Classe\obj\Debug\Primeira_Classe.xml
+C:\Users\Moura\source\repos\vb-2\OrientacaoObjeto\Primeira_Classe\obj\Debug\Primeira_Classe.pdb
