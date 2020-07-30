@@ -22,3 +22,4 @@ C:\Users\Moura\source\repos\vb-2\OrientacaoObjeto\Primeira_Classe\obj\Debug\Prim
 C:\Users\Moura\source\repos\vb-2\OrientacaoObjeto\Primeira_Classe\obj\Debug\Primeira_Classe.exe
 C:\Users\Moura\source\repos\vb-2\OrientacaoObjeto\Primeira_Classe\obj\Debug\Primeira_Classe.xml
 C:\Users\Moura\source\repos\vb-2\OrientacaoObjeto\Primeira_Classe\obj\Debug\Primeira_Classe.pdb
+C:\Users\Moura\source\repos\vb-2\OrientacaoObjeto\Primeira_Classe\obj\Debug\Primeira_Classe.Frm_Principal_02.resources
