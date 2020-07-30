@@ -1,0 +1,24 @@
+C:\Users\Caleum\source\repos\OrientacaoObjeto\2 - ByteBank\bin\Debug\2 - ByteBank.exe.config
+C:\Users\Caleum\source\repos\OrientacaoObjeto\2 - ByteBank\bin\Debug\2 - ByteBank.exe
+C:\Users\Caleum\source\repos\OrientacaoObjeto\2 - ByteBank\bin\Debug\2 - ByteBank.pdb
+C:\Users\Caleum\source\repos\OrientacaoObjeto\2 - ByteBank\bin\Debug\2 - ByteBank.xml
+C:\Users\Caleum\source\repos\OrientacaoObjeto\2 - ByteBank\obj\Debug\_2___ByteBank.Frm_Principal_02.resources
+C:\Users\Caleum\source\repos\OrientacaoObjeto\2 - ByteBank\obj\Debug\_2___ByteBank.Resources.resources
+C:\Users\Caleum\source\repos\OrientacaoObjeto\2 - ByteBank\obj\Debug\2 - ByteBank.vbproj.GenerateResource.cache
+C:\Users\Caleum\source\repos\OrientacaoObjeto\2 - ByteBank\obj\Debug\2 - ByteBank.vbproj.CoreCompileInputs.cache
+C:\Users\Caleum\source\repos\OrientacaoObjeto\2 - ByteBank\obj\Debug\2 - ByteBank.exe
+C:\Users\Caleum\source\repos\OrientacaoObjeto\2 - ByteBank\obj\Debug\2 - ByteBank.xml
+C:\Users\Caleum\source\repos\OrientacaoObjeto\2 - ByteBank\obj\Debug\2 - ByteBank.pdb
+C:\Users\Caleum\source\repos\OrientacaoObjeto\2 - ByteBank\obj\Debug\2 - ByteBank.vbprojAssemblyReference.cache
+C:\Users\Moura\source\repos\vb-2\OrientacaoObjeto\2 - ByteBank\bin\Debug\2 - ByteBank.exe.config
+C:\Users\Moura\source\repos\vb-2\OrientacaoObjeto\2 - ByteBank\bin\Debug\2 - ByteBank.exe
+C:\Users\Moura\source\repos\vb-2\OrientacaoObjeto\2 - ByteBank\bin\Debug\2 - ByteBank.pdb
+C:\Users\Moura\source\repos\vb-2\OrientacaoObjeto\2 - ByteBank\bin\Debug\2 - ByteBank.xml
+C:\Users\Moura\source\repos\vb-2\OrientacaoObjeto\2 - ByteBank\obj\Debug\2 - ByteBank.vbprojAssemblyReference.cache
+C:\Users\Moura\source\repos\vb-2\OrientacaoObjeto\2 - ByteBank\obj\Debug\_2___ByteBank.Frm_Principal_02.resources
+C:\Users\Moura\source\repos\vb-2\OrientacaoObjeto\2 - ByteBank\obj\Debug\_2___ByteBank.Resources.resources
+C:\Users\Moura\source\repos\vb-2\OrientacaoObjeto\2 - ByteBank\obj\Debug\2 - ByteBank.vbproj.GenerateResource.cache
+C:\Users\Moura\source\repos\vb-2\OrientacaoObjeto\2 - ByteBank\obj\Debug\2 - ByteBank.vbproj.CoreCompileInputs.cache
+C:\Users\Moura\source\repos\vb-2\OrientacaoObjeto\2 - ByteBank\obj\Debug\2 - ByteBank.exe
+C:\Users\Moura\source\repos\vb-2\OrientacaoObjeto\2 - ByteBank\obj\Debug\2 - ByteBank.xml
+C:\Users\Moura\source\repos\vb-2\OrientacaoObjeto\2 - ByteBank\obj\Debug\2 - ByteBank.pdb
