@@ -81,6 +81,7 @@
       <DependentUpon>ExemploInterface.vb</DependentUpon>
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="IAbrirPorta.vb" />
     <Compile Include="Imovel.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
