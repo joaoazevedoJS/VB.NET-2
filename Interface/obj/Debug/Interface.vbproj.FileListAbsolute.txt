@@ -1,0 +1,12 @@
+C:\Users\Moura\source\repos\vb-2\Interface\bin\Debug\Interface.exe.config
+C:\Users\Moura\source\repos\vb-2\Interface\bin\Debug\Interface.exe
+C:\Users\Moura\source\repos\vb-2\Interface\bin\Debug\Interface.pdb
+C:\Users\Moura\source\repos\vb-2\Interface\bin\Debug\Interface.xml
+C:\Users\Moura\source\repos\vb-2\Interface\obj\Debug\Interface.vbprojAssemblyReference.cache
+C:\Users\Moura\source\repos\vb-2\Interface\obj\Debug\Interface.ExemploInterface.resources
+C:\Users\Moura\source\repos\vb-2\Interface\obj\Debug\Interface.Resources.resources
+C:\Users\Moura\source\repos\vb-2\Interface\obj\Debug\Interface.vbproj.GenerateResource.cache
+C:\Users\Moura\source\repos\vb-2\Interface\obj\Debug\Interface.vbproj.CoreCompileInputs.cache
+C:\Users\Moura\source\repos\vb-2\Interface\obj\Debug\Interface.exe
+C:\Users\Moura\source\repos\vb-2\Interface\obj\Debug\Interface.xml
+C:\Users\Moura\source\repos\vb-2\Interface\obj\Debug\Interface.pdb
